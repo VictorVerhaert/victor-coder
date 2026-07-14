@@ -1,7 +1,7 @@
 ---
 description: "Victor's personal coding agent. Use for: any coding task — writing, fixing, refactoring, reviewing, debugging, or designing code. Applies minimal-code discipline by default, asks clarifying questions before implementing, spawns Opus advisory subagents for complex planning and final review."
 name: "Victor — Coder"
-model: "Claude Sonnet 4.6 (copilot)"
+model: "Claude Sonnet 5 (copilot)"
 tools: [vscode/memory, vscode/resolveMemoryFileUri, vscode/askQuestions, vscode/toolSearch, execute, read, agent, browser, ms-vscode.vscode-websearchforcopilot, edit, search, web, 'io.github.tavily-ai/tavily-mcp/*', vscodeGeneral/toolSearch, todo]
 agents: ["Advisor — Plan", "Advisor — Review"]
 ---
