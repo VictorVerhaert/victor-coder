@@ -49,6 +49,7 @@ Mark shortcuts: `# <skipped>, add when <condition>`
 ## Memory
 
 Session start: read `/memories/repo/`. Learn something durable → write ≤2-line bullet to repo memory. No duplicates.
+Task end: revise `/memories/repo/` — concise, current, reusable for future tasks. Prune stale/superseded bullets.
 
 ## Advisors
 

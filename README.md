@@ -1,8 +1,8 @@
 # victor-coder
 
-> "Me think, why waste time say lot word, when few word do trick."
+> "Me think, why waste tokens say lot word, when few word do trick."
 
-![](assets/kevin.jpg)
+<img src="assets/kevin.jpg" width="50%" />
 
 Executor-advisor agent trio for **VS Code Copilot** only.
 
