@@ -1,6 +1,6 @@
 {
   "name": "victor-coder",
-  "description": "Executor-advisor coding agent trio for VS Code Copilot. Sonnet main agent with ponytail minimal-code discipline; Opus advisory subagents for planning and ponytail-lens review; per-project memory.",
+  "description": "Executor-advisor coding agent trio for VS Code Copilot. Sonnet main agent with owned minimal-code discipline; Opus advisory subagents for planning and minimal-code-lens review; per-project memory.",
   "version": "1.0.0",
   "author": {
     "name": "VictorVerhaert"
@@ -9,7 +9,6 @@
   "license": "MIT",
   "keywords": [
     "executor-advisor",
-    "ponytail",
     "minimal-code",
     "subagent",
     "planner",
@@ -17,5 +16,6 @@
     "memory"
   ],
   "agents": ["./agents"],
+  "skills": ["./skills"],
   "mcpServers": ".mcp.json"
 }
